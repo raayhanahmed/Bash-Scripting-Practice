@@ -62,4 +62,4 @@ bash solution.sh
 Department of Computer Science & Engineering  
 Daffodil International University
 
-GitHub: https://github.com/rayhanahmed
+GitHub: https://github.com/raayhanahmed
